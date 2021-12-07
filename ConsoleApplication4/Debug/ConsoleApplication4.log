@@ -1,0 +1,9 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(266,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(268,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(276,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(321,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(364,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(519,54): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\pc\source\repos\ConsoleApplication4\ConsoleApplication4\knight.h(519,69): warning C4553: '==': result of expression not used; did you intend '='?
+  ConsoleApplication4.vcxproj -> C:\Users\pc\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
